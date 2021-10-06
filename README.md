@@ -1,3 +1,4 @@
+![rps game](rps.jfif "RPS Game")
 # Evan's Rock Paper Scissors Game with Python
 
 TODO: Write a project description
