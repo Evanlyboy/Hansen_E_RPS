@@ -1,6 +1,7 @@
-# Project Name
+# Evan's Rock Paper Scissors Game with Python
 
 TODO: Write a project description
+A hyper competitive to the death RPS game where loser has to be slapped in the face
 
 ## Installation
 
@@ -28,4 +29,4 @@ TODO: Write credits
 
 ## License
 
-TODO: Write license
+MIT
